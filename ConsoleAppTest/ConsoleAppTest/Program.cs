@@ -10,7 +10,7 @@ namespace ConsoleAppTest
     {
         static void Main(string[] args)
         {
-            Console.Write("Test");
+            Console.Write("Blue");
         }
     }
 }
